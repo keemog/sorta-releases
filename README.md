@@ -1,12 +1,12 @@
-# DJ Library Organizer: test downloads
+# SORTA: test downloads
 
-Download the newest version from **[Releases → Latest](https://github.com/keemog/dj-library-organizer-releases/releases/latest)**.
+Download the newest version from **[Releases → Latest](https://github.com/keemog/sorta-releases/releases/latest)**.
 
 | Device | File |
 |---|---|
-| Mac (macOS 12 or newer) | `DJ-Library-Organizer-Mac.zip` |
-| Android | `DJ-Library-Organizer-Android.apk` |
-| Windows | `DJ-Library-Organizer-Windows.zip` |
+| Mac (macOS 12 or newer) | `SORTA-Mac.zip` |
+| Android | `SORTA-Android.apk` |
+| Windows | `SORTA-Windows.zip` |
 
 Each release includes install notes for every device. The app tells you when a new version is out.
 
